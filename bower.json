@@ -1,0 +1,31 @@
+{
+  "name": "vegmall",
+  "authors": [
+    "depippo <jdepippo@gmail.com>"
+  ],
+  "description": "",
+  "main": "",
+  "license": "MIT",
+  "homepage": "",
+  "private": true,
+    "dependencies": {
+      "angular": "v1.5.8",
+      "angular-ui-router": "latest",
+      "angular-bootstrap" : "latest",
+      "bootstrap" : "v3.3.6",
+      "moment": "latest",
+      "angular-devise": "latest",
+      "ng-simplePagination": "latest",
+      "angular-messages": "latest",
+      "angular-flash-alert" : "latest",
+      "angular-animate" : "latest",
+      "angular-filter": "latest"
+    },  
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
